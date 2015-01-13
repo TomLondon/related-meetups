@@ -3,6 +3,10 @@ Related Meetups
 
 A list of all related meet-up events in London
 
+# London Growth Hackers
+* http://www.meetup.com/London-Growth-Hackers/
+* Grow, grow, grow your boat!
+
 # DimSumJS
 * https://dimsumjs.github.io/
 * Meet & Eat. Dumplings & JavaScripts.
